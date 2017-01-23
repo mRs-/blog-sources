@@ -1,0 +1,25 @@
+BaseUrl= "http://mRs-.github.io"
+LanguageCode= "en-us"
+Title= "mRs-"
+paginate = 5
+DisqusShortname = "mRs-"
+Copyright = "All rights reserved - 2017"
+canonifyurls = true
+
+[params]
+  description = "iOS Developer and Team Lead"
+  cover = "images/cover.jpg"
+  author = "Marius Landwehr"
+  authorlocation = "Osnabrück, Germany"
+  authorwebsite = "http://mrs-.github.io"
+  #bio= "my bio"
+  #logo = "images/logo.png"
+  googleAnalyticsUserID = "UA-90154002-1"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  #RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "mRs-"
+  twitterName = "mariusLAN"
+  # facebookName = ""
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
