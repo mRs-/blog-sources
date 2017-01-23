@@ -1,13 +1,13 @@
 BaseUrl= "http://mRs-.github.io"
 LanguageCode= "en-us"
-Title= "mRs-"
+Title= "Marius Landwehr"
 paginate = 5
 DisqusShortname = "mRs-"
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
 
 [params]
-  description = "iOS Developer and Team Lead"
+  description = "Senior iOS Developer @CHECK24"
   cover = "images/cover.jpg"
   author = "Marius Landwehr"
   authorlocation = "Osnabrück, Germany"
