@@ -8,7 +8,7 @@ canonifyurls = true
 
 [params]
   description = "Senior iOS Developer @CHECK24"
-  #cover = "images/cover.jpg"
+  cover = "images/cover.jpg"
   author = "Marius Landwehr"
   authorlocation = "Osnabrück, Germany"
   authorwebsite = "https://mrs-.github.io/"
