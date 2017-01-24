@@ -13,7 +13,7 @@ canonifyurls = true
   authorlocation = "Osnabrück, Germany"
   authorwebsite = "https://mrs-.github.io/"
   #bio= "my bio"
-  logo = "images/logo.png"
+  logo = "images/logo.jpg"
   googleAnalyticsUserID = "UA-90154002-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..."
