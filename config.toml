@@ -6,6 +6,12 @@ DisqusShortname = "mRs-"
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
 
+[[menu.main]]
+	identifier = "blog"
+	name = "Blog"
+	url = "/"
+	weight = -120
+
 [params]
   description = "Senior iOS Developer @CHECK24"
   cover = "images/cover.jpg"
