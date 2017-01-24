@@ -1,4 +1,4 @@
-BaseUrl= "http://mRs-.github.io"
+BaseUrl= "https://mRs-.github.io/"
 LanguageCode= "en-us"
 Title= "Marius Landwehr"
 paginate = 5
@@ -8,10 +8,10 @@ canonifyurls = true
 
 [params]
   description = "Senior iOS Developer @CHECK24"
-  cover = "images/cover.jpg"
+  #cover = "images/cover.jpg"
   author = "Marius Landwehr"
   authorlocation = "Osnabrück, Germany"
-  authorwebsite = "http://mrs-.github.io"
+  authorwebsite = "https://mrs-.github.io/"
   #bio= "my bio"
   #logo = "images/logo.png"
   googleAnalyticsUserID = "UA-90154002-1"
