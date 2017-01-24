@@ -13,13 +13,13 @@ canonifyurls = true
   authorlocation = "Osnabrück, Germany"
   authorwebsite = "https://mrs-.github.io/"
   #bio= "my bio"
-  #logo = "images/logo.png"
+  logo = "images/logo.png"
   googleAnalyticsUserID = "UA-90154002-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..."
   githubName = "mRs-"
   twitterName = "mariusLAN"
   # facebookName = ""
-  # linkedinName = ""
+  linkedinName = "marius-landwehr-bb99a976"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
