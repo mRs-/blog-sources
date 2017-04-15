@@ -14,7 +14,7 @@ This could be a huge thing even for small apps, it can speed up getting ratings 
 Maybe the UI from Apple is clunky and not easy to get for the customer. We all now that the App Store right now is a horrible in user experience.
 
 ## implement
-The implementation for the requests is pretty easy. If you look into `SKStoreReviewController` there is only one method to call and tahts `requestReview()`.
+The implementation for the requests is pretty easy. If you look into `SKStoreReviewController` there is only one method to call and thats `requestReview()`.
 
 All we need to do is to call this little bit of code.
 ```
